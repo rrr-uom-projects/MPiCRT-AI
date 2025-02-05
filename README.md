@@ -11,6 +11,6 @@ Tutorials to be followed in class:
 
 Practicals:
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/02-Data%20Visualisation.ipynb) Practical 1 - Data management - Pandas.
-- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/02p-02-Data%20Visualisation%20Practical.ipynb) Practical 2 - Data visualisation - Seaborn.
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/02p-Data%20Visualisation%20Practical.ipynb) Practical 2 - Data visualisation - Seaborn.
 
 Have fun!
