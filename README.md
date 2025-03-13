@@ -10,7 +10,7 @@ Tutorials to be followed in class:
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/03-Data%20Preprocessing%20Before%20ML.ipynb) Notebook 3 - Data Preprocessing Before ML - SciPy.
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/04-Classification.ipynb) Notebook 4 - Classification - Titanic survival  scikit-learn.
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/05-NNinPyTorch.ipynb) Notebook 5 - Classification using Neural Networks - Titanic survival  PyTorch.
-- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/06-CNNs.ipynb) Notebook 5 - Classification using Convolutional Neural Networks - PyTorch.
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/06-CNNs.ipynb) Notebook 6 - Classification using Convolutional Neural Networks - PyTorch.
 
 
 Practicals:
