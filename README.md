@@ -17,6 +17,7 @@ Practicals:
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/02-Data%20Visualisation.ipynb) Practical 1 - Data management - Pandas.
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/02p-Data%20Visualisation%20Practical.ipynb) Practical 2 - Data visualisation - Seaborn.
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/03p-Data%20Preprocessing%20Practical.ipynb) Practical 3 - Data Preprocessing Before ML - SciPy.
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/04p-Classification.ipynb) Practical 4 - Classification - ORN survival scikit-learn.
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rrr-uom-projects/MPiCRT-AI/blob/main/06p-Your%20CNN.ipynb) Practical - Train your own CNN.
 
 Have fun!
